@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Bitcoin Live Tracker";
+export const description = "Live Bitcoin price with RSI-based buy/sell signals.";
 export const url = process.env.NEXT_PUBLIC_URL;
